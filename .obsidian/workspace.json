@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-03-Lab-sheet-03-LDR-and-calibration.md",
+                "file": "Week-03-01_Physical_World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-03-Lab-sheet-03-LDR-and-calibration"
+              "title": "Week-03-01_Physical_World"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-03-Lab-sheet-03-LDR-and-calibration.md",
+                "file": "Week-03-01_Physical_World.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week-03-Lab-sheet-03-LDR-and-calibration"
+              "title": "Outline of Week-03-01_Physical_World"
             }
           },
           {
@@ -207,9 +207,9 @@
   },
   "active": "914d1bc10e559287",
   "lastOpenFiles": [
+    "Week-03-Lab-sheet-03-LDR-and-calibration.md",
     "Images/Lab-Cover.png",
     "Images/Week-03-Cover.png",
-    "Week-03-Lab-sheet-03-LDR-and-calibration.md",
     "Week-03.md",
     "Images/Add_Scatter_Chart.png",
     "Pasted image 20260713013048.png",
