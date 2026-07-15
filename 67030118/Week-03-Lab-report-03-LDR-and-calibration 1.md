@@ -248,6 +248,8 @@ Lux = 0.42 × ADC – 50
 ```c
 Lux = 0.0001 × ADC^2 + 0.3 × ADC – 40
 ```
+<img width="1007" height="456" alt="image" src="https://github.com/user-attachments/assets/cee67ce0-461c-4c16-8afa-1b09b2b1325e" />
+
 
 ## **ส่วนที่ 6 — การทำ Calibration ในโค้ด**
 
